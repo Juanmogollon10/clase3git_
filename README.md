@@ -11,4 +11,4 @@
     compilar el codigo
   </li>
 </ol>
-<p> escribir al mailto:mogollonjuan2003@gmail.com</p>
+<p> escribir al  <a href "mailto:mogollonjuan2003@gmail.com"> Juan Mogollon <a/> </p>
